@@ -189,7 +189,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 # ### DYNAMIC_DATATB Settings ###
 DYNAMIC_DATATB = {
     # SLUG -> Import_PATH 
-    'product'  : "apps.pages.models.Product",
+    'Inventory'  : "apps.pages.models.Inventory",
 }
 ########################################
 
